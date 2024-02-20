@@ -40,4 +40,3 @@ Contributions to this project are welcome. Feel free to submit bug reports, feat
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-

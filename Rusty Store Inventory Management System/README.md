@@ -3,10 +3,10 @@
 ![Rusty Store Logo](logo.png)
 
 ## Team Members
-- **Lead Developer:** John Doe
-- **UI/UX Designer:** Jane Smith
-- **Quality Assurance:** Alex Johnson
-- **Documentation:** Emily Brown
+- **Lead Developer:** Nimra Waqar
+- **UI/UX Designer:** Nimra Waqar
+- **Quality Assurance:** Nimra Waqar
+- **Documentation:** Nimra Waqar
 
 ## Project Details
 The Rusty Store Inventory Management System is a small retail store management system built using Rust programming language. It provides essential features for managing store inventory efficiently. Key features include:

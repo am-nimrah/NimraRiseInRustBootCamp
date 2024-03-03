@@ -39,8 +39,3 @@ To install and run the Rusty Store Inventory Management System, follow these ste
 3. Compile the Rust code using the Rust compiler.
 4. Run the compiled executable file to launch the system.
 5. Follow the on-screen instructions to interact with the inventory management system.
-
-## Futuristic Visual
-![Futuristic City with Bull Mascot](futuristic_visual.png)
-
-In a bright and bustling futuristic city, a confident bull mascot leads the way, symbolizing progress, abundance, and exploration of new frontiers. This visual encapsulates the vision of the Rusty Store Inventory Management System, empowering businesses to navigate the evolving landscape of retail management with confidence and agility.

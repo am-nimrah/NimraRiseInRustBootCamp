@@ -1,53 +1,46 @@
 # Rusty Store Inventory Management System
 
-## Overview
+![Rusty Store Logo](logo.png)
 
-This project is an inventory management system developed in Rust for a small retail store. It allows store managers to add, edit, and delete products from the inventory, as well as generate reports on the current inventory.
+## Team Members
+- **Lead Developer:** John Doe
+- **UI/UX Designer:** Jane Smith
+- **Quality Assurance:** Alex Johnson
+- **Documentation:** Emily Brown
 
-## Features
+## Project Details
+The Rusty Store Inventory Management System is a small retail store management system built using Rust programming language. It provides essential features for managing store inventory efficiently. Key features include:
 
-- **Inventory Management**: Store managers can add, edit, and delete products from the inventory. Each product includes a name, description, price, and quantity.
-- **Reporting**: The system can generate user-friendly reports that display the store's inventory in a structured format.
-- **Error Handling**: Robust error handling is implemented to handle invalid inputs and other possible errors gracefully.
-- **Security**: Basic security measures, such as authentication for store managers, are in place to prevent unauthorized access to the inventory.
-- **Text-Based User Interface**: The system features a clear and intuitive text-based user interface that allows store managers to easily navigate and perform tasks.
+- **Inventory Management:** Allows store managers to add, edit, and delete products from the inventory. Each product includes details such as name, description, price, and quantity.
+- **Reporting:** Generates user-friendly reports displaying the store's inventory, facilitating easy tracking of products.
+- **Error Handling:** Incorporates robust error handling mechanisms to manage invalid inputs and potential errors effectively.
+- **Security:** Implements basic security measures, including authentication for store managers, ensuring authorized access to the inventory.
+- **User Interface:** Offers a clear and intuitive text-based user interface for seamless navigation and task execution.
 
-## Usage
+## Vision
+The Rusty Store Inventory Management System aims to streamline retail store operations by providing a reliable and user-friendly platform for managing inventory. By offering essential features and robust error handling, it empowers store managers to maintain accurate inventory records, optimize stock levels, and enhance overall efficiency in retail management.
 
-1. **Clone the Repository**: Clone this repository to your local machine.
+## Software Development Plan
+1. **Define Product Struct:** Implement a struct to represent product details, including name, description, price, and quantity.
+2. **Implement Inventory Struct:** Create a struct to manage the store's inventory, incorporating methods for adding, removing, updating products, and generating reports.
+3. **User Interface Development:** Design and implement a text-based user interface for interacting with the inventory management system.
+4. **Error Handling:** Implement error handling mechanisms to manage invalid inputs and unexpected errors effectively.
+5. **Security Features:** Integrate basic authentication mechanisms to ensure secure access to the inventory management system.
+6. **Testing and Deployment:** Conduct comprehensive testing to ensure the functionality and reliability of the system before deployment.
 
-2. **Build the Project**: Navigate to the project directory and build the project using Cargo, Rust's package manager and build system.
+## Personal Story Summary
+As a passionate developer, I embarked on the journey of creating the Rusty Store Inventory Management System to address the challenges faced by small retail businesses in managing their inventory efficiently. With a vision to simplify retail store operations and empower store managers, I collaborated with a dedicated team to design and develop a robust solution tailored to the needs of small-scale retailers.
 
-   ```bash
-   cargo build
-   ```
+## Installation Guide
+To install and run the Rusty Store Inventory Management System, follow these steps:
 
-3. **Run the Program**: Execute the compiled binary to run the Rusty Store Inventory Management System.
+1. Clone the repository from GitHub.
+2. Navigate to the project directory.
+3. Compile the Rust code using the Rust compiler.
+4. Run the compiled executable file to launch the system.
+5. Follow the on-screen instructions to interact with the inventory management system.
 
-   ```bash
-   cargo run
-   ```
+## Futuristic Visual
+![Futuristic City with Bull Mascot](futuristic_visual.png)
 
-4. **Follow the Menu**: The program will display a menu with options to add, remove, update products, generate reports, or exit the program. Follow the prompts to perform desired actions.
-
-5. **Input Validation**: Ensure to provide valid inputs when prompted for product details or menu choices. The program includes error handling to guide you in case of invalid inputs.
-
-## About the Developer
-
-This inventory management system is developed by Nimra Waqar, a software engineering student specializing in machine learning and data mining at COMSATS. Nimra has 2 years of experience as a machine learning engineer and is currently working on her thesis in machine learning.
-
-Nimra is actively involved in various tech communities and societies, including:
-
-- **Ambassador of Connected Pakistan Tech Conference**
-- **Mentor and Content Creator of MLSA VU Faisalabad Chapter**
-- **Operational Team Lead of MLSA Comsats Attock Chapter**
-- **Member of Women Techmakers**
-- **Member of Google Cloud Innovators**
-
-## Contributions
-
-Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests to help improve the functionality and usability of the Rusty Store Inventory Management System.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+In a bright and bustling futuristic city, a confident bull mascot leads the way, symbolizing progress, abundance, and exploration of new frontiers. This visual encapsulates the vision of the Rusty Store Inventory Management System, empowering businesses to navigate the evolving landscape of retail management with confidence and agility.

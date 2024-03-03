@@ -1,6 +1,6 @@
 # Rusty Store Inventory Management System
 
-![Rusty Store Logo](logo.png)
+![Rusty Store Logo](logo (2).png)
 
 ## Team Members
 - **Lead Developer:** John Doe
